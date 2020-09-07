@@ -2,7 +2,7 @@
 ## Email Address: emejeothniel@gmail.com
 ##  **GOOGLE AFRICA DEVELOPERS SCHOLARSHIP**
 ## **PHASE 2 PROJECT**
-## **COURSE: Building Batch Data Pipelines on GCPP**
+## **COURSE: Building Batch Data Pipelines on GCP**
 ## **Lab Title: Serverless Data Analysis with Dataflow: A Simple Dataflow Pipeline (Java)**
 
 ### Lab objectives
