@@ -1,5 +1,4 @@
-﻿## Name: Emeje Othniel 
-## Email Address: emejeothniel@gmail.com
+
 ##  **GOOGLE AFRICA DEVELOPERS SCHOLARSHIP**
 ## **PHASE 2 PROJECT**
 ## **COURSE: Building Batch Data Pipelines on GCP**
